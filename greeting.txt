@@ -1,6 +1,0 @@
-# Greeting
-
-Hello world
-
-By Sopida 
-
